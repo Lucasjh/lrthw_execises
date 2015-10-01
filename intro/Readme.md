@@ -25,8 +25,4 @@ Why do you need to not copy and paste?
 Why is Practice and Persistence important?
 
     Again, muscle memory. I have spent enough time on steep and long learning curves alike with my persuits in music and other things to know that there is no easy way out of learning motor skill oriented talents.
-    
-
-
-    
 

@@ -9,9 +9,9 @@ Using just the integer "4" would have returned "120" in the line of code below.
 
 5) `_` is Underscore
 
-6) `(104389492_chapter_4_master) Lucas Henderson
-
-    Hutchs-Mac-mini:chapter_4 $ irb
+6) 
+`(104389492_chapter_4_master) Lucas Henderson
+        Hutchs-Mac-mini:chapter_4 $ irb
     
     2.2.3 :001 > m = 3
     

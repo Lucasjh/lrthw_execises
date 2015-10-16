@@ -1,13 +1,9 @@
-# A Comment
-# Octothorpe hides the text after it in a single line
+# A comment, this is so you can read your program later.
+# Anything after the # is ignored by ruby.
 
-puts 'I could have code like this.' # And the comment after is ignored
+puts "I could have code like this." # and the comment after is ignored
 
-# You can also use a comment to 'disable' or comment out a line of code:
-# puts 'this won't run'
+# You can also use a comment to "disable" or comment out a piece of code:
+# puts "This won't run."
 
-puts 'This will run.'
-puts ''
-puts 'Can you find a key combo in RubyMine to comment out a line of code?'
-puts ''
-puts 'Indeed. Key combo "Cmd+/" does the trick'
+puts "This will run."

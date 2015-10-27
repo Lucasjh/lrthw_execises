@@ -5,3 +5,5 @@ interpolation as well.
 
 
 
+ _Checked with rubocop. Lots of formatting issues with the curly braces and 
+indentations for hashes. I also removed all unnecessary double quotes._

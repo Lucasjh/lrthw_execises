@@ -1,0 +1,1 @@
+I decided to fix all the errors that rubocop was giving me so I can learn what is considered to be "convention" in writing neat, readable, elegant code. I changed all the double quotes to single quotes where the single quotes were unecessary.
